@@ -1,13 +1,7 @@
-name: daniel ziorli
-id: 1016491
-assignment number: 4
-
 avltree.c:
 
 run the make file: make
 
 run the programe: ./avltree
 
-the text file should be placed in the same folder and be named A4_data_f18.txt
-
-thanks hope you enjoy my spaghetti code!
+the text file should be placed in the same folder and be named data.txt
