@@ -298,7 +298,7 @@ void replace_chars(char * str, char oldChar, char newChar)
 struct node* init(struct node* root){
     char * buffer = 0;
     long length;
-    FILE * f = fopen ("A4_data_f18.txt", "rb");
+    FILE * f = fopen ("data.txt", "rb");
 
     if (f)
     {
